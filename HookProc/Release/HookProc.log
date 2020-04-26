@@ -1,0 +1,13 @@
+﻿生成启动时间为 2020/4/27 0:04:55。
+     1>项目“E:\VcProject\Hook\HookProc\HookProc\HookProc.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VcProject\Hook\HookProc\Release\HookProc.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\VcProject\Hook\HookProc\Release\HookProc.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VcProject\Hook\HookProc\Release\HookProc.lib" /MACHINE:X86 /SAFESEH Release\HookProc.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         HookProc.vcxproj -> E:\VcProject\Hook\HookProc\Release\HookProc.exe
+     1>已完成生成项目“E:\VcProject\Hook\HookProc\HookProc\HookProc.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.39

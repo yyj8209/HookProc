@@ -2,10 +2,16 @@
 *.sdf
 *.pdb
 *.pch
+<<<<<<< HEAD
 \ipch\
 \HookProc\Debug\
 \HookProc\Release\
 \Debug\
+=======
+*.ipch
+/HookProc/Debug
+/HookProc/Release
+>>>>>>> a70441d37ed699339c6fe307832d0b56c052a2f8
 
 
 # Windows shortcuts

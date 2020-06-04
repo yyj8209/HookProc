@@ -5,6 +5,7 @@
 \ipch\
 \HookProc\Debug\
 \HookProc\Release\
+\Debug\
 
 
 # Windows shortcuts
@@ -38,8 +39,3 @@
 Network Trash Folder
 Temporary Items
 .apdisk
-
-\WifiClientDemo\app\build\
-\WiFiServer\app\build\
-\MyServer\app\build\
-\MyClient\app\build\

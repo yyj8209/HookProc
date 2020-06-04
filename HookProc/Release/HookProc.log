@@ -1,6 +1,11 @@
-﻿生成启动时间为 2020/4/27 0:04:55。
+﻿生成启动时间为 2020/6/4 21:53:51。
      1>项目“E:\VcProject\Hook\HookProc\HookProc\HookProc.vcxproj”在节点 2 上(Build 个目标)。
-     1>Link:
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\HookProc.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HookProc.cpp
+         HookProc.cpp
+     1>HookProc.cpp(107): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>HookProc.cpp(116): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+       Link:
          D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VcProject\Hook\HookProc\Release\HookProc.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\VcProject\Hook\HookProc\Release\HookProc.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VcProject\Hook\HookProc\Release\HookProc.lib" /MACHINE:X86 /SAFESEH Release\HookProc.obj
          Release\stdafx.obj
          正在生成代码
@@ -10,4 +15,4 @@
 
 生成成功。
 
-已用时间 00:00:00.39
+已用时间 00:00:03.79

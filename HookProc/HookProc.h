@@ -16,4 +16,4 @@ typedef struct {
 	ULONG_PTR dwExtraInfo;
 } KBDLLHOOKSTRUCT2, *PKBDLLHOOKSTRUCT2;
 
-void KillProcess(CString sExeName);
+void KillProcess(CString saExeName[]);

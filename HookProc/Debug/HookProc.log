@@ -1,16 +1,18 @@
-﻿生成启动时间为 2020/4/27 0:03:43。
-     1>项目“E:\VcProject\Hook\HookProc\HookProc\HookProc.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2020/4/28 22:37:25。
+     1>项目“E:\VcProject\Hook\HookProc\HookProc\HookProc.vcxproj”在节点 2 上(Rebuild 个目标)。
      1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\HookProc.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
          D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\HookProc.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt HookProc.cpp
          HookProc.cpp
      1>e:\vcproject\hook\hookproc\hookproc\hookproc.cpp(107): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
-     1>e:\vcproject\hook\hookproc\hookproc\hookproc.cpp(115): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+     1>e:\vcproject\hook\hookproc\hookproc\hookproc.cpp(116): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
        Link:
          D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VcProject\Hook\HookProc\Debug\HookProc.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\VcProject\Hook\HookProc\Debug\HookProc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VcProject\Hook\HookProc\Debug\HookProc.lib" /MACHINE:X86 Debug\HookProc.obj
          Debug\stdafx.obj
          HookProc.vcxproj -> E:\VcProject\Hook\HookProc\Debug\HookProc.exe
-     1>已完成生成项目“E:\VcProject\Hook\HookProc\HookProc\HookProc.vcxproj”(Build 个目标)的操作。
+     1>已完成生成项目“E:\VcProject\Hook\HookProc\HookProc\HookProc.vcxproj”(Rebuild 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.77
+已用时间 00:00:00.99
